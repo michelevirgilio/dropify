@@ -194,7 +194,8 @@ $('.dropify').dropify({
         'maxWidth': 'The image width is too big ({{ value }}}px max).',
         'minHeight': 'The image height is too small ({{ value }}}px min).',
         'maxHeight': 'The image height is too big ({{ value }}px max).',
-        'imageFormat': 'The image format is not allowed ({{ value }} only).'
+        'imageFormat': 'The image format is not allowed ({{ value }} only).',
+	'fileExtension': 'The file is not allowed ({{ value }} only).'
     }
 });
 ```
